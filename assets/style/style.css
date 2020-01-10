@@ -10,11 +10,31 @@ body{
     position: absolute;
     top: 0;
     right: 0;
-    width: 50%;
+    width: 75%;
     padding: 20px;
   }
   
-  p,
-  h1 {
-    font-size: 200%;
+h1{
+    font-size: 400%;
+}
+
+p{
+    font-size: 250%;
   }
+
+#aboutTitle{
+    text-decoration: underline;
+}
+
+#footer{
+    /* position: fixed; */
+    padding:1.5%;
+    border: 2px #801414 solid;
+    background:#666666;
+}
+
+#foot{
+    text-align:center;
+    margin:0;
+    color: #ffffff;
+}
