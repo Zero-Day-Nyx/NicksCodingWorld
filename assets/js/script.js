@@ -1,6 +1,6 @@
 // Matrix Rain
     function draw(){
-        ctx.fillStyle="rgba(0, 0, 0, 0.05)",ctx.fillRect(0,0,c.width,c.height),ctx.fillStyle="#0F0",ctx.font=font_size+"px arial";
+        ctx.fillStyle="rgba(0, 0, 0, 0.05)",ctx.fillRect(0,0,c.width,c.height),ctx.fillStyle="#CC1111",ctx.font=font_size+"px arial";
     for(var a=0;a<drops.length;a++){var b=j[Math.floor(Math.random()*j.length)];
         ctx.fillText(b,a*font_size,drops[a]*font_size),drops[a]*font_size>c.height&&Math.random()>.975&&(drops[a]=0),drops[a]++}}
         var c=document.getElementById("c"),ctx=c.getContext("2d");

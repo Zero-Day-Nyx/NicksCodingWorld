@@ -61,13 +61,7 @@ p{
     margin:0
 }
 
-.projects a{
-    position:relative;
-    bottom:50px;
-    left:40px;
-    margin:0 auto;
-    padding:5px 50px 5px 50px;
-    text-decoration:none;
-    color:#ffffff;
-    background:#4aaaa5;
+a{
+    
+    color:#cc1111
 }
