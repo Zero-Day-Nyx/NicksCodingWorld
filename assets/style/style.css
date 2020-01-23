@@ -22,6 +22,10 @@ p{
     font-size: 150%;
   }
 
+img{
+    float: right;
+}
+
 .icon{
     font-size: 200%;
 }
