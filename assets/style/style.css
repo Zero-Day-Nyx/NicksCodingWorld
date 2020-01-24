@@ -77,3 +77,9 @@ a{
 a:hover{
     color:#fa5a5a
 }
+
+@media only screen and (max-width: 600px) {
+    [class*=aboutText]{
+        font-size:125%;
+    }
+}
