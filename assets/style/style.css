@@ -19,8 +19,12 @@ h1{
 }
 
 p{
-    font-size: 150%;
+    font-size: 100%;
   }
+
+.aboutText{
+    font-size:200%;
+}
 
 img{
     float: right;
