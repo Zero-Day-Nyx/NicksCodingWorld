@@ -26,10 +26,6 @@ p{
     font-size:200%;
 }
 
-img{
-    float: right;
-}
-
 .icon{
     font-size: 200%;
 }
@@ -53,8 +49,6 @@ img{
     color: #cc1111;
 }
 
-
-
 .projects{
     float:left;
     padding:15px;
@@ -70,7 +64,6 @@ img{
 }
 
 a{
-
     color:#cc1111
 }
 
