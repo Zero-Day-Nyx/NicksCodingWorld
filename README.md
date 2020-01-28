@@ -5,6 +5,9 @@ This is my own coding portfolio that contains projects and creations I have done
 ### link to the deployed website
 - https://modern-viking.github.io/NicksCodingWorld/
 
+## Page Contents
+- ![screenshot]()
+
 ## Future Updates
 * Additional creations added
 
