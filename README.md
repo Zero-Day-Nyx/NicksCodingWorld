@@ -8,7 +8,7 @@ This is my own coding portfolio that contains projects and creations I have done
 ## Page Contents
 ![screenshot](https://github.com/Modern-Viking/NicksCodingWorld/blob/master/assets/images/readmeScreenshots/landingArea.jpg?raw=true)
 
-![screenshot](https://github.com/Modern-Viking/NicksCodingWorld/blob/master/assets/images/readmeScreenshots/landingArea.jpg?raw=true)
+![screenshot](https://github.com/Modern-Viking/NicksCodingWorld/blob/master/assets/images/readmeScreenshots/aboutMe.jpg?raw=true)
 
 
 ## Future Updates
