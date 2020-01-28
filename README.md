@@ -6,7 +6,7 @@ This is my own coding portfolio that contains projects and creations I have done
 - https://modern-viking.github.io/NicksCodingWorld/
 
 ## Page Contents
-- ![screenshot]()
+- ![screenshot](https://github.com/Modern-Viking/NicksCodingWorld/blob/master/assets/images/readmeScreenshots/landingArea.jpg?raw=true)
 
 ## Future Updates
 * Additional creations added
