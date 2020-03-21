@@ -6,7 +6,7 @@ function draw() {
         ctx.fillText(b, a * font_size, drops[a] * font_size), drops[a] * font_size > c.height && Math.random() > .975 && (drops[a] = 0), drops[a]++
     }
 }
-var c = document.getElementById("c"), ctx = c.getContext("2d");
+var c = document.querySelector("canvas"), ctx = c.getContext("2d");
 c.height = window.innerHeight, c.width = window.innerWidth;
 var j = "私は誰ですか？ああ、それは素晴らしいパズルです。1!2@3#4$5%6^7&8*9(0)";
 j = j.split(""); for (var font_size = 10, columns = c.width / font_size, drops = [], x = 0; x < columns; x++)drops[x] = 1; setInterval(draw, 33);
