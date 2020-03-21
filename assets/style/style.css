@@ -55,12 +55,20 @@ p{
     font-size:150%;
 }
 
-.icon{
-    font-size: 200%;
-}
-
 #aboutTitle{
     text-decoration: underline;
+}
+
+.homeLink{
+  position: absolute;
+  right: 10px;
+  top:40px;
+}
+
+.resume {
+  color: #cc1111 !important;
+  font-family: permanent marker;
+  font-size:300%;
 }
 
 #footer{
