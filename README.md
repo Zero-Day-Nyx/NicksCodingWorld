@@ -3,7 +3,7 @@
 This is my own coding portfolio that contains projects and creations I have done or collaborated on.  It also contains areas for contacting and a bit about myself.
 
 ### link to the deployed website
-- https://modern-viking.github.io/NicksCodingWorld/
+- https://Zero-Day-Nyx.github.io/NicksCodingWorld/
 
 ## Page Contents
 Landing Area  
